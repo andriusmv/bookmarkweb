@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
   fetch("bookmarks.json")
     .then((response) => response.json())
     .then((data) => {
+      data.bookmarks.sort((a, b) => a.name.localeCompare(b.name));
       console.log(data);
       const bookmarksContainer = document.getElementById("bookmarks-container");
       data.bookmarks.forEach((bookmark) => {
