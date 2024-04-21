@@ -136,8 +136,17 @@ h3 {
 }
 
 .block {
-  background-color: var(--clr-background-accent);
+  background-color: var(--clr-background);
   padding: 1rem;
+  border: solid 1px var(--clr-text);
   border-radius: var(--br);
   margin: 1rem;
+  overflow: hidden;
+}
+
+.block:hover {
+  border: solid 1px var(--clr-alert);
+  border-radius: var(--br);
+  margin: 1rem;
+  color: var(--clr-alert);
 }
