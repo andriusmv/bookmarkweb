@@ -58,7 +58,7 @@ span {
 :root {
   --clr-text: #b2e1a8;
   --clr-background: #000000;
-  --clr-background-accent: #e60e0a;
+  --clr-background-accent: #232323;
   --clr-background-dimmed: #1a1a1a;
   --clr-primary: #ffffff;
   --clr-secondary: #ffffff;
@@ -89,7 +89,7 @@ span {
   :root {
     --clr-text: #b2e1a8;
     --clr-background: #000000;
-    --clr-background-accent: #e60e0a;
+    --clr-background-accent: #232323;
     --clr-background-dimmed: #1a1a1a;
     --clr-primary: #ffffff;
     --clr-secondary: #ffffff;
@@ -112,10 +112,30 @@ span {
 
 html,
 body {
-  font-size: var(--fs-m);
+  font-size: var(--fs-s);
   font-family: var(--ff-base);
   line-height: 1.6;
   color: var(--clr-text);
   min-height: 100vh;
   background: var(--clr-background);
+}
+
+h1 {
+  font-size: var(--fs-l);
+  font-weight: 400;
+}
+
+h2 {
+  font-size: var(--fs-m);
+  font-weight: 200;
+}
+
+h3 {
+  font-size: var(--fs-s);
+  font-weight: 200;
+}
+
+.block {
+  background-color: var(--clr-background-accent);
+  padding: 1rem;
 }
