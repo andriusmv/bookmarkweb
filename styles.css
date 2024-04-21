@@ -36,22 +36,22 @@ span {
 }
 
 :root {
-  --clr-text: #310a18;
-  --clr-background: #eff6ee;
-  --clr-background-accent: #b4d6ad;
-  --clr-background-dimmed: #d1e4cd;
-  --clr-primary: #f8e8ee;
-  --clr-secondary: #25d366;
-  --clr-accent: #34b7f1;
-  --clr-alert: #e70400;
+  --clr-text: #b2e1a8;
+  --clr-background: #000000;
+  --clr-background-accent: #e60e0a;
+  --clr-background-dimmed: #1a1a1a;
+  --clr-primary: #ffffff;
+  --clr-secondary: #ffffff;
+  --clr-accent: #b2e1a8;
+  --clr-alert: #e60e0a;
   --page-background: radial-gradient(
     farthest-corner at 100% 100%,
     var(--clr-background-accent) 0%,
     var(--clr-background) 50%
   );
 
-  --ff-base: "Roboto", sans-serif;
-  --ff-accent: "Roboto", sans-serif;
+  --ff-base: "VT323", monospace;
+  --ff-accent: "VT323", monospace;
 
   --fs-xss: clamp(0.77rem, calc(0.75rem + 0.04vw), 0.73rem);
   --fs-xs: clamp(0.88rem, calc(0.85rem + 0.11vw), 0.94rem);
@@ -67,14 +67,14 @@ span {
 
 @media (prefers-color-scheme: light) {
   :root {
-    --clr-text: #310a18;
-    --clr-background: #f9f5f6;
-    --clr-background-accent: #fdcedf;
-    --clr-background-dimmed: #f9f5f67a;
-    --clr-primary: #f8e8ee;
-    --clr-secondary: #25d366;
-    --clr-accent: #34b7f1;
-    --clr-alert: #e70400;
+    --clr-text: #b2e1a8;
+    --clr-background: #000000;
+    --clr-background-accent: #e60e0a;
+    --clr-background-dimmed: #1a1a1a;
+    --clr-primary: #ffffff;
+    --clr-secondary: #ffffff;
+    --clr-accent: #b2e1a8;
+    --clr-alert: #e60e0a;
     --page-background: radial-gradient(
       farthest-corner at 100% 100%,
       var(--clr-background-accent) 0%,
@@ -84,8 +84,10 @@ span {
 }
 
 @font-face {
-  font-family: "Roboto", sans-serif;
-  src: url(https://fonts.googleapis.com/css2?family=Roboto);
+  font-family: "VT323", monospace;
+  src: url(https://fonts.googleapis.com/css2?family=VT323);
+  font-weight: 400;
+  font-style: normal;
 }
 
 html,
