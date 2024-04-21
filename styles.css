@@ -1,0 +1,99 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+
+html {
+  color-scheme: dark light;
+}
+
+img,
+picture,
+video {
+  display: block;
+  max-width: 100%;
+}
+
+img {
+  border-radius: var(--br);
+}
+
+svg {
+  cursor: inherit;
+}
+
+span {
+  text-decoration: underline;
+  font-weight: 200;
+  text-underline-offset: 0.5rem;
+}
+
+:root {
+  --clr-text: #310a18;
+  --clr-background: #eff6ee;
+  --clr-background-accent: #b4d6ad;
+  --clr-background-dimmed: #d1e4cd;
+  --clr-primary: #f8e8ee;
+  --clr-secondary: #25d366;
+  --clr-accent: #34b7f1;
+  --clr-alert: #e70400;
+  --page-background: radial-gradient(
+    farthest-corner at 100% 100%,
+    var(--clr-background-accent) 0%,
+    var(--clr-background) 50%
+  );
+
+  --ff-base: "Roboto", sans-serif;
+  --ff-accent: "Roboto", sans-serif;
+
+  --fs-xss: clamp(0.77rem, calc(0.75rem + 0.04vw), 0.73rem);
+  --fs-xs: clamp(0.88rem, calc(0.85rem + 0.11vw), 0.94rem);
+  --fs-s: clamp(1.13rem, calc(1.08rem + 0.22vw), 1.25rem);
+  --fs-m: clamp(1.69rem, calc(1.62rem + 0.33vw), 1.88rem);
+  --fs-l: clamp(2.25rem, calc(2.16rem + 0.43vw), 2.5rem);
+  --fs-xl: clamp(3.38rem, calc(3.24rem + 0.65vw), 3.75rem);
+  --fs-2xl: clamp(4.5rem, calc(4.33rem + 0.87vw), 5rem);
+  --fs-3xl: clamp(6.75rem, calc(6.49rem + 1.3vw), 7.5rem);
+
+  --br: 0.5rem;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --clr-text: #310a18;
+    --clr-background: #f9f5f6;
+    --clr-background-accent: #fdcedf;
+    --clr-background-dimmed: #f9f5f67a;
+    --clr-primary: #f8e8ee;
+    --clr-secondary: #25d366;
+    --clr-accent: #34b7f1;
+    --clr-alert: #e70400;
+    --page-background: radial-gradient(
+      farthest-corner at 100% 100%,
+      var(--clr-background-accent) 0%,
+      var(--clr-background) 50%
+    );
+  }
+}
+
+@font-face {
+  font-family: "Roboto", sans-serif;
+  src: url(https://fonts.googleapis.com/css2?family=Roboto);
+}
+
+html,
+body {
+  font-size: var(--fs-xs);
+  font-family: var(--ff-base);
+  line-height: 1.6;
+  color: var(--clr-text);
+  min-height: 100vh;
+  background: var(--clr-background);
+}
