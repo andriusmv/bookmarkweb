@@ -138,4 +138,6 @@ h3 {
 .block {
   background-color: var(--clr-background-accent);
   padding: 1rem;
+  border-radius: var(--br);
+  margin: 1rem;
 }
