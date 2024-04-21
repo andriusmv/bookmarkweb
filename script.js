@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const bookmarksContainer = document.getElementById("bookmarks-container");
       data.bookmarks.forEach((bookmark) => {
         const bookmarkDiv = document.createElement("div");
-        bookmarkDiv.innerHTML = `<h2>${bookmark.name}</h2><a href="${bookmark.url}">${bookmark.url}</a>`;
+        bookmarkDiv.innerHTML = `<div class="block"><h2>${bookmark.name}</h2><a href="${bookmark.url}">${bookmark.url}</a></div>`;
         bookmarksContainer.appendChild(bookmarkDiv);
       });
     })
