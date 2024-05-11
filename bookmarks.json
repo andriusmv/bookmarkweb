@@ -1,76 +1,6 @@
 {
   "bookmarks": [
     {
-      "date_added": "13351200250468778",
-      "date_last_used": "0",
-      "guid": "f7a383b9-402f-4504-8098-d14be1f958cf",
-      "id": "410",
-      "meta_info": {
-        "power_bookmark_meta": ""
-      },
-      "name": "2023 User Conference: ArcGIS Dashboards - Samples",
-      "show_icon": false,
-      "source": "user_add",
-      "type": "url",
-      "url": "https://www.arcgis.com/home/group.html?id=e11142f7e8844e758e41fcc6d0d12ed3&rsource=https%3A%2F%2Flinks.esri.com%2F2023UCDashboardsSamples#overview"
-    },
-    {
-      "date_added": "13351234324516941",
-      "date_last_used": "0",
-      "guid": "e75f5ed5-2750-40f8-800d-8e884257fa61",
-      "id": "413",
-      "meta_info": {
-        "power_bookmark_meta": ""
-      },
-      "name": "ArcGIS Dashboards Gallery | Examples from the Dashboards community",
-      "show_icon": false,
-      "source": "user_add",
-      "type": "url",
-      "url": "https://doc.arcgis.com/en/dashboards/gallery/"
-    },
-    {
-      "date_added": "13351331961089173",
-      "date_last_used": "0",
-      "guid": "d0f6bfe3-2a2a-4f96-8c8b-b36c94e9a4ef",
-      "id": "416",
-      "meta_info": {
-        "power_bookmark_meta": ""
-      },
-      "name": "Introducing Tile Package Kreator (Esri Labs)",
-      "show_icon": false,
-      "source": "user_add",
-      "type": "url",
-      "url": "https://www.esri.com/arcgis-blog/products/apps/data-management/introducing-tile-package-kreator-esri-labs/"
-    },
-    {
-      "date_added": "13351520298515755",
-      "date_last_used": "0",
-      "guid": "f75db572-633c-468f-abc3-24e0c9c3381c",
-      "id": "419",
-      "meta_info": {
-        "power_bookmark_meta": ""
-      },
-      "name": "Formación - Inicio",
-      "show_icon": false,
-      "source": "user_add",
-      "type": "url",
-      "url": "https://esriespana923.sharepoint.com/sites/Formacin388"
-    },
-    {
-      "date_added": "13351596012183678",
-      "date_last_used": "0",
-      "guid": "6670d14c-e998-4b57-9073-7e3d48916b57",
-      "id": "422",
-      "meta_info": {
-        "power_bookmark_meta": ""
-      },
-      "name": "Mapas en Accion",
-      "show_icon": false,
-      "source": "user_add",
-      "type": "url",
-      "url": "https://mapasenaccion-comunidadsig.hub.arcgis.com/"
-    },
-    {
       "date_added": "13330627766786018",
       "date_last_used": "0",
       "guid": "a3920d30-bd5d-4b94-b577-b456f1f22a8f",
@@ -146,17 +76,6 @@
       "source": "user_add",
       "type": "url",
       "url": "https://storymaps.arcgis.com/stories/7541152b4b2b4f15a798d536dc480703"
-    },
-    {
-      "date_added": "13331312494810559",
-      "date_last_used": "0",
-      "guid": "7749dbfe-ceac-4359-9588-b07179f022ae",
-      "id": "36",
-      "name": "Formación para Partners",
-      "show_icon": false,
-      "source": "user_add",
-      "type": "url",
-      "url": "https://tockify.com/partners.esri/monthly"
     },
     {
       "date_added": "13331623522322665",
@@ -3129,6 +3048,1316 @@
       "source": "user_add",
       "type": "url",
       "url": "https://openwebinars.net/"
+    },
+    {
+      "date_added": "13355402981907663",
+      "date_last_used": "0",
+      "guid": "51ed7f36-6e46-4393-9a82-9d03071c26a6",
+      "id": "482",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Adventures in link centrality",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.esri.com/arcgis-blog/products/insights/analytics/adventures-in-link-centrality/"
+    },
+    {
+      "date_added": "13355405451780149",
+      "date_last_used": "0",
+      "guid": "3e801709-a4fc-4158-aca2-8b6f50d69ed2",
+      "id": "483",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "ArcGIS - 3D Windturbines WGS",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.arcgis.com/home/webscene/viewer.html?webscene=a0535c102fd74e58be1cdf2ed3ea4033"
+    },
+    {
+      "date_added": "13355425360045918",
+      "date_last_used": "0",
+      "guid": "e38c5193-7963-46d2-a2e8-33a4cbf42499",
+      "id": "486",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Basemaps | Documentation | ArcGIS Developers",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://developers.arcgis.com/documentation/mapping-apis-and-services/maps/basemap-layers/"
+    },
+    {
+      "date_added": "13355479981329932",
+      "date_last_used": "0",
+      "guid": "956f55f3-6c5f-47cd-8f39-48571397f5a4",
+      "id": "489",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Setting up SSO",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://storymaps.arcgis.com/stories/46cff46bf58d4fc0bb013b0c0f99942c"
+    },
+    {
+      "date_added": "13355486115430081",
+      "date_last_used": "0",
+      "guid": "98839fcf-c5c8-486d-974c-1ef910b79ecb",
+      "id": "490",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Pix4dmatic_Creamn_Foxa - PIX4Dcloud",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://cloud.pix4d.com/dataset/1786864/model?shareToken=1740d114-e1b0-4e37-8419-e52bcb7b9452"
+    },
+    {
+      "date_added": "13355491144401982",
+      "date_last_used": "0",
+      "guid": "f70429fe-daa0-4c6f-bc92-bc52cb3e51be",
+      "id": "491",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Tutorial: Integración de Microsoft Entra con ArcGIS Online - Microsoft Entra ID | Microsoft Learn",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://learn.microsoft.com/es-es/entra/identity/saas-apps/arcgis-tutorial"
+    },
+    {
+      "date_added": "13355512507470242",
+      "date_last_used": "0",
+      "guid": "dffc3232-8428-42b0-b709-bc6afac9f888",
+      "id": "492",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "New tool shows accessibility of public areas for different population groups",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.tudelft.nl/en/ide/delft-design-stories/new-tool-shows-accessibility-of-public-areas-for-different-population-groups"
+    },
+    {
+      "date_added": "13355512515072715",
+      "date_last_used": "0",
+      "guid": "baa0deb9-c1dd-4a2b-b9c1-b6185e3e89f1",
+      "id": "493",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "CTwalk Map",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://miliasv.github.io/CTwalkMap/?city=amsterdam#11.43/52.3451/4.915"
+    },
+    {
+      "date_added": "13355567791396315",
+      "date_last_used": "0",
+      "guid": "de54d780-fc71-4be4-bf6b-b6a2ac0157ce",
+      "id": "494",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "ArcGIS Support Consultant (Specialist / Developer) - Inter-American Development Bank Careers",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://iadbcareers.referrals.selectminds.com/jobs/arcgis-support-consultant-specialist-developer-5922"
+    },
+    {
+      "date_added": "13355576301420849",
+      "date_last_used": "0",
+      "guid": "50f4970f-bdfe-47e3-b636-96a5ca3f208b",
+      "id": "495",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "SIG Page | Riskmonitor",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://riskmonitor.iadb.org/es/sig-page"
+    },
+    {
+      "date_added": "13355586773560890",
+      "date_last_used": "0",
+      "guid": "fc3215e4-9e94-403d-83b2-427764ca1c97",
+      "id": "496",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Les Routes du Futur du Grand Paris – Transport – Projects – RSHP",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://rshp.com/projects/transport/les-routes-du-futur-du-grand-paris/"
+    },
+    {
+      "date_added": "13355669951359637",
+      "date_last_used": "0",
+      "guid": "9b175fa8-6729-4d7b-a3cb-57ef68350a2f",
+      "id": "499",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Generate Schema Report (Data Management)—ArcGIS Pro | Documentation",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/generate-schema-report.htm"
+    },
+    {
+      "date_added": "13355827868863025",
+      "date_last_used": "0",
+      "guid": "23591d60-9ac7-4e32-b809-5970b471f9f5",
+      "id": "502",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Can GIS Keep Dutch Trains on Track? - Esri Videos: GIS, Events, ArcGIS Products & Industries",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://mediaspace.esri.com/media/t/1_6eanln5x"
+    },
+    {
+      "date_added": "13355838836960896",
+      "date_last_used": "0",
+      "guid": "c49b6b2d-ac18-40dc-b431-afb5574b979b",
+      "id": "503",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Online Hacker Simulator and Typer | Pranx.com",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://pranx.com/hacker/"
+    },
+    {
+      "date_added": "13355854744576328",
+      "date_last_used": "0",
+      "guid": "cec42f45-792c-4f01-9af8-f0a107fbeeeb",
+      "id": "506",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Vic3D",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.planning.vic.gov.au/guides-and-resources/council-resources/planning-in-3d/vic3d"
+    },
+    {
+      "date_added": "13355924194113958",
+      "date_last_used": "0",
+      "guid": "8473f749-bd96-4fbe-b939-13551c902701",
+      "id": "509",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Introduction to GIS Using ArcGIS | Esri Training Instructor-Led Course",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.esri.com/training/catalog/59c40f6fde53ed5705e39c5a/introduction-to-gis-using-arcgis/"
+    },
+    {
+      "date_added": "13355925793512571",
+      "date_last_used": "0",
+      "guid": "b6de6522-84fd-48d3-b65c-9cca2be8b245",
+      "id": "510",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Understanding Survey123 Feature Reports - Esri Community",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://community.esri.com/t5/arcgis-survey123-blog/understanding-survey123-feature-reports/ba-p/897659"
+    },
+    {
+      "date_added": "13356445256309499",
+      "date_last_used": "0",
+      "guid": "7476cd79-4ba9-4679-ae84-5536eefe8d7f",
+      "id": "514",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Animated lines with WebGL | Sample Code | ArcGIS Maps SDK for JavaScript 4.29 | ArcGIS Developers",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://developers.arcgis.com/javascript/latest/sample-code/custom-gl-animated-lines/"
+    },
+    {
+      "date_added": "13356445748871837",
+      "date_last_used": "0",
+      "guid": "087f13ee-fa57-4691-aa9c-72f64f05f6cc",
+      "id": "515",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Satellite Map | Explore Active Satellites Orbiting Earth",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://geoxc-apps.bd.esri.com/space/satellite-explorer/"
+    },
+    {
+      "date_added": "13356445868964174",
+      "date_last_used": "0",
+      "guid": "816cd811-1dd1-4663-a2ff-d49189b47385",
+      "id": "516",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Satellite Database | Union of Concerned Scientists",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.ucsusa.org/resources/satellite-database"
+    },
+    {
+      "date_added": "13356592458284515",
+      "date_last_used": "0",
+      "guid": "3984dec6-f409-4048-af9f-a40e4970d6b7",
+      "id": "520",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Esri's Weekend of Innovation 2022: Esri's Weekend of Innovation intern hackathon: the future is what we create - Devpost",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://weekend-of-innovation-2022.devpost.com/project-gallery"
+    },
+    {
+      "date_added": "13356782449327590",
+      "date_last_used": "0",
+      "guid": "23159810-cfbc-4162-8460-0b2910462675",
+      "id": "524",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Preparing for your Community Maps data contribution",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://storymaps.arcgis.com/stories/5cf8c970949049e8a758f1116a3f02c0"
+    },
+    {
+      "date_added": "13356798591107067",
+      "date_last_used": "0",
+      "guid": "2499c7dc-ec6f-4eae-9575-dcd2583b2cd3",
+      "id": "528",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Movement Data Visualization • moveVis",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://movevis.org/"
+    },
+    {
+      "date_added": "13357383049404954",
+      "date_last_used": "0",
+      "guid": "f45805a8-d957-4654-b3c2-1e0bcb9213cc",
+      "id": "532",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Unaweep Canyon Escalada Climbing Rock Drone",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://storymaps.arcgis.com/stories/77b2ace255e9476c8246a4bc4cce923f"
+    },
+    {
+      "date_added": "13357386008403979",
+      "date_last_used": "0",
+      "guid": "639f476d-ecbf-411e-b944-f2ffdd3b16fd",
+      "id": "533",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Parque Nacional de Picos de Europa",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://ipcadmonlocal.maps.arcgis.com/home/webscene/viewer.html?webscene=477efefd34374469904333cefd60b57a"
+    },
+    {
+      "date_added": "13357486979941159",
+      "date_last_used": "0",
+      "guid": "87817821-976a-4efc-8d18-21be2efef99c",
+      "id": "537",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Electrostatic Halftoning - Mathematical Image Analysis Group, Saarland University",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.mia.uni-saarland.de/Research/Electrostatic_Halftoning/images.shtml"
+    },
+    {
+      "date_added": "13357666352398866",
+      "date_last_used": "0",
+      "guid": "a55e28bf-f905-42a9-9f99-273518b41e4f",
+      "id": "541",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "LeoLabs | Propelling the dynamic space era",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://leolabs.space/"
+    },
+    {
+      "date_added": "13357717301806780",
+      "date_last_used": "0",
+      "guid": "8d371ed7-b57d-4863-8d67-dc1c2c9ae36c",
+      "id": "545",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Satellite sensor raster types—ArcGIS Pro | Documentation",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://pro.arcgis.com/en/pro-app/latest/help/data/imagery/satellite-sensor-raster-types.htm"
+    },
+    {
+      "date_added": "13357776881796322",
+      "date_last_used": "0",
+      "guid": "0cc82092-56f5-4a56-a24e-c194b2d28eac",
+      "id": "549",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "How does a mosaic dataset handle rasters in different projections?",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-desktop/analytics/how-does-a-mosaic-dataset-handle-rasters-in-different-projections/?rmedium=blogs_esri_com&rsource=/esri/arcgis/2013/01/16/how-does-a-mosaic-dataset-handle-rasters-in-different-projections/"
+    },
+    {
+      "date_added": "13357862251624522",
+      "date_last_used": "0",
+      "guid": "9632d12a-51b9-4711-b9d6-9b39d73c0219",
+      "id": "553",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Joshua Stevens - Portfolio",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.joshuastevens.net/portfolio/"
+    },
+    {
+      "date_added": "13357862424649208",
+      "date_last_used": "0",
+      "guid": "917f3b3e-a0fd-4ae6-93b8-64863f75843d",
+      "id": "554",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "What are the band designations for the Landsat satellites? | U.S. Geological Survey",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.usgs.gov/faqs/what-are-band-designations-landsat-satellites"
+    },
+    {
+      "date_added": "13357937014775528",
+      "date_last_used": "0",
+      "guid": "b0b999df-d87b-4553-9682-ccc709fcdd15",
+      "id": "558",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "The Benefits of using Enterprise Logins for ArcGIS Online",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-online/administration/the-benefits-of-using-enterprise-logins-for-arcgis-online/"
+    },
+    {
+      "date_added": "13357937330552328",
+      "date_last_used": "0",
+      "guid": "6f1faae7-df6d-44a2-8fc6-99dfa39d7a2f",
+      "id": "559",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Managing ArcGIS In Higher Education: How do I get to a Best Practices State? - Esri Videos: GIS, Events, ArcGIS Products & Industries",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://mediaspace.esri.com/media/t/1_23qeqm4h"
+    },
+    {
+      "date_added": "13357989072811065",
+      "date_last_used": "0",
+      "guid": "8e804635-b037-4561-8b57-f16170324d28",
+      "id": "563",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Instructions for signing in to ArcGIS Online - Google Docs",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://docs.google.com/document/d/1UbU4EX0kOR3zDeLx5LYjqPD9HmDXiVJHeIELt6emmxc/edit"
+    },
+    {
+      "date_added": "13357989190202807",
+      "date_last_used": "0",
+      "guid": "861eeb34-ff20-4ec6-bfc9-3abb632e11d4",
+      "id": "564",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Adding users to your ArcGIS Online account",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://storymaps.arcgis.com/stories/2e37d78304be47618b143dc1fe4777dd"
+    },
+    {
+      "date_added": "13357989215387779",
+      "date_last_used": "0",
+      "guid": "ad2ad58e-8c61-4074-bcb3-8deb58d7c9f8",
+      "id": "565",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Signing in to ArcGIS Online (AGOL) | California State University Monterey Bay",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://csumb.edu/gis/signing-arcgis-online-agol/"
+    },
+    {
+      "date_added": "13357992136704397",
+      "date_last_used": "0",
+      "guid": "b2eaf21f-ed8e-4b55-8e9c-68b05b3b9423",
+      "id": "566",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "adAS - adAS Single Sign-On",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "http://www.adas-sso.com/es/sso/sso.php"
+    },
+    {
+      "date_added": "13357997648983367",
+      "date_last_used": "0",
+      "guid": "c542387a-197a-46d1-ba73-36eebf797bb6",
+      "id": "567",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "GUIDE: FUNDAMENTALS OF SYNTHETIC APERTURE RADAR (SAR)",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://storymaps.arcgis.com/stories/20d8cd2ce11a4d5d81a8a65711d5ec29"
+    },
+    {
+      "date_added": "13357999616307769",
+      "date_last_used": "0",
+      "guid": "bf0f55d2-2372-4f52-b087-e714cd3b505d",
+      "id": "568",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "MásterGIS Presencial",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.esri.es/es-es/cursos-y-master/masters-esri/mastergis-presencial"
+    },
+    {
+      "date_added": "13358071493910074",
+      "date_last_used": "0",
+      "guid": "d2863d4a-7d6a-4bc2-8259-33fa1bf1b228",
+      "id": "572",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "ESG Hazard Screening Layers",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://experience.arcgis.com/experience/32e3a867bceb4cf790c5cd4ff246c82b"
+    },
+    {
+      "date_added": "13358072591190566",
+      "date_last_used": "0",
+      "guid": "17f4932c-ab23-4226-b011-0ec1c2df1fd5",
+      "id": "573",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "ATLAS",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://atlas.iadb.org/portal/apps/sites/#/atlas"
+    },
+    {
+      "date_added": "13358155619544962",
+      "date_last_used": "0",
+      "guid": "1447e343-6475-48b1-a1bd-c48e2f0bf057",
+      "id": "577",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Python Map Automation / arcpy.m(a)p(ping)",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.arcgis.com/home/group.html?id=398a345905c845e38229c15f5353d4e9&rsource=https%3A%2F%2Fesriurl.com%2Farcpy.mp%2Fsamples#overview"
+    },
+    {
+      "date_added": "13358162213539927",
+      "date_last_used": "0",
+      "guid": "d6a49a19-5e50-4866-b4b6-baf62ccf9794",
+      "id": "578",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "JSON to HTML",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://andriusmv.github.io/bookmarkweb/"
+    },
+    {
+      "date_added": "13358168734200445",
+      "date_last_used": "0",
+      "guid": "ef488140-284b-4405-861f-dce9170be707",
+      "id": "579",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Repositorio Institucional: Impacto generado por la UVA La Armonía, en el valor comercial de los inmuebles residenciales localizados entre la calle 84, la Carrera 36 y la Servidumbre 82 y su relación por la cercanía a la misma",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://repositorio.esumer.edu.co/handle/esumer/1882"
+    },
+    {
+      "date_added": "13358253473337341",
+      "date_last_used": "0",
+      "guid": "0c86b2ae-0152-4d93-a4c6-c13509f643cc",
+      "id": "583",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Arcade Expressions and You",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://arcgis-content.maps.arcgis.com/apps/PublicGallery/index.html?appid=8951b538362b492cadadf7ede1b85c21#!"
+    },
+    {
+      "date_added": "13358259127079323",
+      "date_last_used": "0",
+      "guid": "e9b37f98-7a2e-4928-a4e6-a4ece21a07c9",
+      "id": "584",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "GEMA - Inicio Amianto",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "http://censoamianto.com/"
+    },
+    {
+      "date_added": "13358259367724899",
+      "date_last_used": "0",
+      "guid": "8a3bed7d-064e-40f0-b984-f82690cc1246",
+      "id": "585",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Agustín Gallardo, de Xtrem: \"Además de localizar el amianto de todas las instalaciones, GEMA facilita a los ayuntamientos saber cómo, cuándo y por cuánto lo podrán retirar\" - Prevención - MC Mutual",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://prevencion.mc-mutual.com/actualidad-detalle/-/asset_publisher/ksRMfI4DgwKI/content/agustin-gallardo-de-xtrem-ademas-de-localizar-el-amianto-de-todas-las-instalaciones-gema-facilita-a-los-ayuntamientos-saber-como-cuando-y-por-cuanto-l"
+    },
+    {
+      "date_added": "13358270682116946",
+      "date_last_used": "0",
+      "guid": "03dc4c95-2dca-4632-b727-4095cfd420c4",
+      "id": "589",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "All In | A community dedicated to advancing diversity, equity, and inclusion within open source.",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://allinopensource.org/"
+    },
+    {
+      "date_added": "13358317107638749",
+      "date_last_used": "0",
+      "guid": "84a308d9-a22e-4a18-b587-48b6193dfd45",
+      "id": "593",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Inside Airbnb: Home",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://insideairbnb.com/"
+    },
+    {
+      "date_added": "13358338012947804",
+      "date_last_used": "0",
+      "guid": "5116722f-4dd5-4478-bc36-975f448bb6ee",
+      "id": "597",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "AVANZO cursos",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://esri.avanzo.com/front/app/mycourses"
+    },
+    {
+      "date_added": "13358356582454860",
+      "date_last_used": "0",
+      "guid": "c0c87e20-2224-4230-944a-afb8409504ad",
+      "id": "601",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Formato shapefile 2014",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.catastro.hacienda.gob.es/ayuda/manual_descriptivo_shapefile.pdf"
+    },
+    {
+      "date_added": "13358407875003589",
+      "date_last_used": "0",
+      "guid": "d87a5a97-0231-426e-b143-4ccd1ecb368a",
+      "id": "605",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "arcgis-python-api/talks at conference_talks · Esri/arcgis-python-api",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://github.com/Esri/arcgis-python-api/tree/conference_talks/talks"
+    },
+    {
+      "date_added": "13358503814045307",
+      "date_last_used": "0",
+      "guid": "13bffebd-8b55-4df7-9165-d9b60ec2ae2b",
+      "id": "609",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Apache Tomcat/9.0.78",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://pythonapi.playground.esri.com/"
+    },
+    {
+      "date_added": "13358512442822526",
+      "date_last_used": "0",
+      "guid": "36fb71b5-fbfc-449e-88fe-d53ceb48600b",
+      "id": "610",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Content Management: Validate item metadata | ArcGIS API for Python",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://developers.arcgis.com/python/samples/validate-item-metadata/"
+    },
+    {
+      "date_added": "13358513120706140",
+      "date_last_used": "0",
+      "guid": "1cbd510e-b235-4b75-af3e-733860c7a5bc",
+      "id": "611",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Accessing and managing users | ArcGIS API for Python",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://developers.arcgis.com/python/guide/accessing-and-managing-users/#creating-a-user-with-values-other-than-new-member-defaults"
+    },
+    {
+      "date_added": "13358529042443851",
+      "date_last_used": "0",
+      "guid": "d9cb6bbc-6b99-48ec-b8d7-f17fcb23485a",
+      "id": "615",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "ArcGIS Notebooks | Spatial Analysis Meets Data Science in a Jupyter Notebook",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.esri.com/en-us/arcgis/products/arcgis-notebooks/overview?adumkts=product&adupro=ArcGIS_Notebooks&aduc=social&adum=external&aduSF=twitter&utm_Source=social&aduca=arcgis_notebooks_aware&adupt=lead_gen&sf_id=7015x000000aaFjAAI"
+    },
+    {
+      "date_added": "13358530724240033",
+      "date_last_used": "0",
+      "guid": "494b6ba9-1964-40f2-91ed-1e32c60e5e1a",
+      "id": "619",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "The Ultimate Markdown Guide (for Jupyter Notebook) | by Hannan Satopay | Analytics Vidhya | Medium",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://medium.com/analytics-vidhya/the-ultimate-markdown-guide-for-jupyter-notebook-d5e5abf728fd"
+    },
+    {
+      "date_added": "13358580584668985",
+      "date_last_used": "0",
+      "guid": "bb6596e5-8a2b-4b49-8332-8ecd3891739e",
+      "id": "623",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Notebooks de Esri",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://educacionesri.maps.arcgis.com/home/search.html?restrict=false&sortField=relevance&sortOrder=desc&searchTerm=owner%3A%22esri_notebook%22&focus=notebooks&tags=Administration#content"
+    },
+    {
+      "date_added": "13358607202591583",
+      "date_last_used": "0",
+      "guid": "f33ae000-eca3-4acf-8a8b-ba4f5fbebe15",
+      "id": "627",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "cam4.jpg (720×405)",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://traficosevilla.es/camaras/cam4.jpg"
+    },
+    {
+      "date_added": "13358607964652218",
+      "date_last_used": "0",
+      "guid": "c5e51e47-5354-44d0-8cc1-084796e94d8e",
+      "id": "628",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "BT Active Intelligence Location Insights Now Available with CARTO",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://carto.com/blog/bt-active-intelligence-data-available-with-carto"
+    },
+    {
+      "date_added": "13358657611759933",
+      "date_last_used": "0",
+      "guid": "822bd8c8-e12c-4332-911e-2b201928a6ac",
+      "id": "632",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "ArcGIS Adoption Strategy Consulting | People-Focused Change Management",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.esri.com/en-us/arcgis/services/organization/adoption-strategy?aduc=Social&sf_id=701f2000000i0EJAAY&adut=adoptstr-li&aduca=MIChangeManagement&adum=External&adusf=LinkedIn&utm_source=Social"
+    },
+    {
+      "date_added": "13358659723873549",
+      "date_last_used": "0",
+      "guid": "c09ee321-dead-42e3-8c42-63f571148183",
+      "id": "633",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Part 7: Composing various compositions to capture the storytelling p1",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.kazoneonline.com/courses/composition-and-storytelling-with-kim-jung-gi/lectures/40687797"
+    },
+    {
+      "date_added": "13358660566594995",
+      "date_last_used": "0",
+      "guid": "87d58da8-3c44-48f0-9bac-8da80d45c288",
+      "id": "634",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Architecture Practice Resource Page - Esri Community",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://community.esri.com/t5/implementing-arcgis-blog/architecture-practice-resource-page/ba-p/1180721"
+    },
+    {
+      "date_added": "13358660692497635",
+      "date_last_used": "0",
+      "guid": "87554d5c-7ab6-4d36-b15d-86fdab80ee4b",
+      "id": "635",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Performance Engineering: Load Testing ArcGIS Enter... - Esri Community",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://community.esri.com/t5/implementing-arcgis-blog/performance-engineering-load-testing-arcgis/ba-p/1070106"
+    },
+    {
+      "date_added": "13358665341103963",
+      "date_last_used": "0",
+      "guid": "a003c8e8-909e-4c4f-acfe-ad046627a751",
+      "id": "636",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "The Path to GIS Success",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://the-path-to-gis-sucess-prof-services.hub.arcgis.com/"
+    },
+    {
+      "date_added": "13358665383344266",
+      "date_last_used": "0",
+      "guid": "7d96fc64-dea7-419a-9b18-59df0984017c",
+      "id": "637",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "GIS Return on Investment Examples",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://government.bd.esri.com/portal/apps/MapJournal/index.html?appid=bc2932e29943405bbec95dbea3992a85"
+    },
+    {
+      "date_added": "13358719305442231",
+      "date_last_used": "0",
+      "guid": "a204d9a3-5126-4c18-9314-9e72494ee681",
+      "id": "641",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Colour Contrast Checker",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://colourcontrast.cc/"
+    },
+    {
+      "date_added": "13358760295923805",
+      "date_last_used": "0",
+      "guid": "3a757809-e603-4b9c-8612-689fc9989c13",
+      "id": "645",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Portfolio | Kate Berg Pokateomaps",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.pokateomaps.com/portfolio"
+    },
+    {
+      "date_added": "13358764256818909",
+      "date_last_used": "0",
+      "guid": "0d2afbdd-4616-4f4b-8ad1-13a1649edca4",
+      "id": "646",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "ArcGIS Enterprise - Create Initial Administrator Account",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://esri-bzqkjq3:7443/arcgis/home/createadmin.html"
+    },
+    {
+      "date_added": "13358883310691095",
+      "date_last_used": "0",
+      "guid": "bc34563c-ebf2-438d-8734-2950efccc865",
+      "id": "650",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Privacy error",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://esri-bzqkjq3:7443/arcgis/home/"
+    },
+    {
+      "date_added": "13358970239932991",
+      "date_last_used": "0",
+      "guid": "ed6be15c-ffb7-40c6-8032-7a870d299f9e",
+      "id": "654",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "ArcGIS Enterprise Portal AMV",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://esri-bzqkjq3/portal/home/"
+    },
+    {
+      "date_added": "13358971721684283",
+      "date_last_used": "0",
+      "guid": "7cfb1084-3861-47d1-893f-ddfa99d1c9c5",
+      "id": "658",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Application Error",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://esri-bzqkjq3/server/manager"
+    },
+    {
+      "date_added": "13358972382683280",
+      "date_last_used": "0",
+      "guid": "322936e8-1273-4036-9c86-d3b28b98c9d5",
+      "id": "662",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "ArcGIS Server Manager AMV",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://esri-bzqkjq3/server/manager/#"
+    },
+    {
+      "date_added": "13359034753019248",
+      "date_last_used": "0",
+      "guid": "27fb9c07-12ec-44c0-8110-54626d33d495",
+      "id": "666",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Esri Training | Your Location for Lifelong Learning",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.esri.com/training/mooc/player/645d6a07eb82fb767bb0c012/657b7632cad18e23bfed3c00/lessons/"
+    },
+    {
+      "date_added": "13359034991358626",
+      "date_last_used": "0",
+      "guid": "bb6f570d-95ea-4dc8-926f-aa17f50aeaba",
+      "id": "667",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "State of the Global Climate 2023",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://storymaps.arcgis.com/stories/2545ecd62e594005bb196b0ba962d7cb"
+    },
+    {
+      "date_added": "13359098513946572",
+      "date_last_used": "0",
+      "guid": "7714f02e-1ef8-4c94-8c58-18a033ae70e1",
+      "id": "671",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Climate Mapping for Resilience and Adaptation",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://resilience.climate.gov/"
+    },
+    {
+      "date_added": "13359098611302389",
+      "date_last_used": "0",
+      "guid": "c2184b53-eb60-4414-a30c-bb16c5b4a1d3",
+      "id": "672",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "CMRA - Climate Mapping For Resilience and Adaptation",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://livingatlas.arcgis.com/assessment-tool/explore/details"
+    },
+    {
+      "date_added": "13359099112407078",
+      "date_last_used": "0",
+      "guid": "abfaa03b-4058-48fa-83ba-f4d3f5ef494d",
+      "id": "673",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Where’s the Data? Accessing Vast Geospatial Data Resources | LinkedIn",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.linkedin.com/pulse/wheres-data-accessing-vast-geospatial-resources-matt-thomas/"
+    },
+    {
+      "date_added": "13359099272761563",
+      "date_last_used": "0",
+      "guid": "5dd8f5e5-52f1-4840-a189-8a04081649b8",
+      "id": "674",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "AccuWeather Enterprise Solutions | Esri Partner",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.esri.com/partners/accuweather-enterpri-a2T70000000TNJBEA4"
+    },
+    {
+      "date_added": "13359108444603781",
+      "date_last_used": "0",
+      "guid": "0d738f18-2a94-4640-a695-916540a54031",
+      "id": "678",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Harnessing distributed collaboration for forest restoration",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://storymaps.arcgis.com/stories/7bca10f769d54a6e8a036206fb63c7de"
+    },
+    {
+      "date_added": "13359118523218466",
+      "date_last_used": "0",
+      "guid": "ead99505-61e1-4405-b978-66ace9b55689",
+      "id": "679",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Abortion Access Dashboard",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://experience.arcgis.com/experience/6e360741bfd84db79d5db774a1147815"
+    },
+    {
+      "date_added": "13359119176775333",
+      "date_last_used": "0",
+      "guid": "109bd82b-7be3-4b30-a663-5ce691b21fc9",
+      "id": "680",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Abortion Access Dashboard",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://experience.arcgis.com/experience/6e360741bfd84db79d5db774a1147815/"
+    },
+    {
+      "date_added": "13359208160358807",
+      "date_last_used": "0",
+      "guid": "59c0f519-08c8-41bb-9cbb-0c0902a197e0",
+      "id": "684",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "ArcGIS Data Store",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://esri-bzqkjq3:2443/arcgis/datastore/"
+    },
+    {
+      "date_added": "13359364531250414",
+      "date_last_used": "0",
+      "guid": "76cfe626-02ab-4ad4-a9a1-5cf3dd880f6c",
+      "id": "688",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Charles Preppernau | @Geolographer",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://geolographer.xyz/"
+    },
+    {
+      "date_added": "13359398736029548",
+      "date_last_used": "0",
+      "guid": "92b71349-776e-4a5a-ab5b-6a72c5ceb1a8",
+      "id": "692",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Perplexity AI",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.perplexity.ai/"
+    },
+    {
+      "date_added": "13359401222903547",
+      "date_last_used": "0",
+      "guid": "36580c91-d09b-4de1-a32f-f4c38f8a7fb6",
+      "id": "693",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Introducing Related Record Editing in Map Viewer",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-online/mapping/introducing-related-record-editing-in-map-viewer/#supported-relationships-in-map-viewer"
+    },
+    {
+      "date_added": "13359401898436192",
+      "date_last_used": "0",
+      "guid": "fee3bd11-51b9-4225-8d2f-c48104d3f334",
+      "id": "694",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Rolling Out Related Records in Map Viewer",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-online/mapping/rolling-out-related-records-in-map-viewer/"
+    },
+    {
+      "date_added": "13359414149212303",
+      "date_last_used": "0",
+      "guid": "8923cede-1f5a-4ce2-af1d-eafe6667c83f",
+      "id": "695",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "To Ease Global Warming, the Whitest of Paints - The New York Times",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://www.nytimes.com/2023/07/12/climate/white-paint-climate-cooling.html?smid=tw-nytimes&smtyp=cur"
+    },
+    {
+      "date_added": "13359533156368434",
+      "date_last_used": "0",
+      "guid": "3c08cd07-7588-4b7d-9c3e-07d04feb5e68",
+      "id": "699",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "CUESTIONARIO DE DESAYUNO",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://docs.google.com/forms/d/1DGqssX_pmQA5tP2clBDBTCN55ywYtyPuRiUhmv-OL9s/viewform?edit_requested=true"
+    },
+    {
+      "date_added": "13359533158557980",
+      "date_last_used": "0",
+      "guid": "feddc2d5-384c-4ebe-bde8-bbcaddbdc3a3",
+      "id": "700",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "CUESTIONARIO DE ALIMENTACIÓN",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://docs.google.com/forms/d/1fWVhSs45vAT5hgZa5PgWLHaYLyCqFW60y6K0P2DF2ZU/viewform?pli=1&pli=1&edit_requested=true"
+    },
+    {
+      "date_added": "13359741215733520",
+      "date_last_used": "0",
+      "guid": "514b9230-a6ca-41bf-9e13-c31c74896d32",
+      "id": "704",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Gemelo Digital Montaña",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://experience.arcgis.com/experience/a724cba7c04845179cf0bc2a02a62218"
+    },
+    {
+      "date_added": "13359809689647264",
+      "date_last_used": "0",
+      "guid": "9dab7459-79a8-43a1-81e7-196b577fb087",
+      "id": "708",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Geodatabase Replication",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://storymaps.arcgis.com/stories/08aec08f6309459f84cf51b658179a46"
+    },
+    {
+      "date_added": "13359852590913393",
+      "date_last_used": "0",
+      "guid": "9a8060d6-efb9-41a3-bfda-8e399d9a8c8c",
+      "id": "712",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Explore nearby 15 min",
+      "show_icon": false,
+      "source": "user_add",
+      "type": "url",
+      "url": "https://web.bd.esri.com/geoxc/demoX/platform/hosted-data/index.html"
     }
-  ]
+  ],
+  "date_added": "13327585515043221",
+  "date_last_used": "0",
+  "date_modified": "13359852590913393",
+  "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+  "id": "2",
+  "name": "Other favorites",
+  "source": "unknown",
+  "type": "folder"
 }
